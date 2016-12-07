@@ -1,1 +1,1 @@
-This is is the sample rest web service example with jersy
+This is is the sample rest web service example with jersy framework
